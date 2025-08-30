@@ -20,10 +20,3 @@ Descriptivo, ya que por el momento el objetivo de este análisis es identificar 
 ## Pregunta Smart 
 
 ¿Es posible identificar, por medio de herramientas de análisis de datos e IA, los planes de internet y zonas geográficas que concentren almenos el 60% de la deuda total de cartera en mora hasta el mes de agosto y qué características comunes presentan estos clientes para priorizar estrategias de recaudo en los próximos tres meses? 
-
-## Análisis Univariado
-
-
-## Análisis Univariado
-
-[Entrega Análisis Univariado](https://docs.google.com/document/d/1YsXg2F82sUHhuuvsznn5n0A9qzYW6AMaJBkHozvp4SI/edit?usp=sharing)
